@@ -14,19 +14,18 @@
 
 ## Matrix Factorization
 
-    <img width="1280" height="599" alt="Image" src="https://github.com/user-attachments/assets/f721b150-4fe2-4a1c-8c61-c3955abb4ffd" />
-    <img width="1762" height="627" alt="Image" src="https://github.com/user-attachments/assets/ee6997e3-2c21-4269-9d6b-d6c4216e23ad" />
-    This algorithm uses SVD
-    <img width="1577" height="828" alt="Image" src="https://github.com/user-attachments/assets/e97c8f5a-c94a-4ebb-a27b-7eba914579cc" />
+<img width="1280" height="599" alt="Image" src="https://github.com/user-attachments/assets/f721b150-4fe2-4a1c-8c61-c3955abb4ffd" />
+<img width="1762" height="627" alt="Image" src="https://github.com/user-attachments/assets/ee6997e3-2c21-4269-9d6b-d6c4216e23ad" />
+This algorithm uses SVD
+<img width="1577" height="828" alt="Image" src="https://github.com/user-attachments/assets/e97c8f5a-c94a-4ebb-a27b-7eba914579cc" />
 
 
 ## Using K-Nearest-Neighbours
 
-    <img width="1671" height="815" alt="Image" src="https://github.com/user-attachments/assets/a21a712c-7329-49c8-8ca8-dbfe70ca1ed4" />
+<img width="1671" height="815" alt="Image" src="https://github.com/user-attachments/assets/a21a712c-7329-49c8-8ca8-dbfe70ca1ed4" />
 
-    In KNN we have further 2 methods:
-
-    <img width="1033" height="1026" alt="Image" src="https://github.com/user-attachments/assets/df9b2176-9271-4cc2-83b6-03304185b7c8" />
+In KNN we have further 2 methods:
+<img width="1033" height="1026" alt="Image" src="https://github.com/user-attachments/assets/df9b2176-9271-4cc2-83b6-03304185b7c8" />
 
 ## Experiments
 
