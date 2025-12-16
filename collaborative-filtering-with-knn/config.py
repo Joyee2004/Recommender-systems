@@ -1,0 +1,7 @@
+RATING_SCALE = (1,5)
+TEST_SIZE = 0.25
+KNN_K = 40
+KNN_SIMILARITY = "cosine"
+SVD_EPOCHS = 100
+SVD_FACTORS = 50
+MLFLOW_EXPERIMENT = "Collaborative-Filtering"
